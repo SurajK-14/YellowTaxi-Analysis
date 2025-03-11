@@ -172,4 +172,8 @@ cython_debug/
 
 .DS_store
 
+#ignore all .csv files
 *.csv
+
+#ignore all .parquet files
+*.parquet
